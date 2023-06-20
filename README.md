@@ -1,8 +1,8 @@
 <h1 align="center">
-Hi, iamwalshy!
+Hi, devwalshe!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/Iamwalshy" alt="Profile views" align='right'/> <a href="https://github.com/iamwalshy/"> </a> 
+ <img src="https://gpvc.arturio.dev/Iamwalshy" alt="Profile views" align='right'/> <a href="https://github.com/devwalshe/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -107,7 +107,7 @@ devwalshe@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:iamwalshy@protonmail.com">contact me through email</a>.
+If you have any questions about front-end web development, feel free to <a href="mailto:wwalsh0615@protonmail.com">contact me through email</a>.
 
 
   </td>
