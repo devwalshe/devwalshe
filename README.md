@@ -13,7 +13,7 @@ Hi, iamwalshy!
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
-iamwalshy@github
+devwalshe@github
 -------------------------
 💻 I am a self taught Full Stack Python Developer and a Machine Learning Developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
